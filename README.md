@@ -1,3 +1,7 @@
+# Encodings 101
+
+This repository explores different strategies to encode categorical variables present in your dataset into numeric.
+
 We will go through the following _Encoding Strategies_:
 
 __Unsupervised -__ _Don’t make use of the target variable to encode categorical variables_
